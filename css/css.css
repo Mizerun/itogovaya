@@ -1,0 +1,48 @@
+
+.kartoch{
+	padding: 1rem;
+}
+.gradient{
+
+background: linear-gradient(0deg, white, orange);
+}
+.cvet{
+	color:rgb(255, 184, 126);
+  text-shadow: 1px 0 1px rgb(48, 48, 48), 
+  0 1px 1px rgb(48, 48, 48), 
+  -1px 0 1px rgb(48, 48, 48), 
+  0 -1px 1px rgb(48, 48, 48);
+}
+.zakr{
+  border-radius: 0.5rem 0.5rem 0 0 ;
+}
+.bordor{
+  border: 0.2vw solid black;
+  width: 30rem;
+  height: 28rem;
+  background-color: white;
+  border-radius: 0.5rem;
+}
+.bordqr{
+  border: 0.1vw solid black;
+}
+.grodient{
+  width: 100vh 100vw;
+  background: linear-gradient( 45deg, rgb(27, 27, 27), rgba(255, 136, 0, 0.89));
+}
+.koncovka{
+  background-color:rgb(28, 28, 28);
+  color:rgb(117, 117, 117);
+  margin-top: -1rem;} 
+  .koncovka1{
+    color:rgb(117, 117, 117);
+    text-align: center;
+    background: linear-gradient( 0deg,rgb(28, 28, 28),  rgb(48, 48, 48));
+}
+.date{
+  display: left;
+}
+.logo{
+  width: 3%;
+  height: 3%;
+}
